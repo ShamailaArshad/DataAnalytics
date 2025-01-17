@@ -21,7 +21,7 @@
 # 1. Global Superstore
 "*The Global Superstore dataset is a simulation of retail sales operations with stores in multiple countries. It includes information about customers, orders and products, which is particularly useful for exploring retail sales data, as it offers a large and diverse set of data that can be used to analyse customer behaviour, product performance and sales patterns.*"
 
-Dataset Source: https://www.kaggle.com/datasets/shekpaul/global-superstore?ref=hackernoon.com
+Dataset Source: https://www.kaggle.com/datasets/shekpaul/global-superstore
 
 ## 1.1. Data Loading 
 -   The Excel file contains three tabs; **Orders**, **People** and **Returns**
